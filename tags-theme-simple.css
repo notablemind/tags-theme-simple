@@ -1,0 +1,26 @@
+.tags.simple-theme .small-btn {
+  padding: 3px 8px;
+  color: #999;
+  border-radius: 10px;
+}
+.tags.simple-theme .small-btn:hover {
+  color: black;
+  background-color: #aaa;
+}
+.tags.simple-theme .tag {
+  border-radius: 10px;
+}
+.tags.simple-theme .tag:hover {
+  background-color: #ccc;
+}
+.tags.simple-theme .tag .text {
+  padding: 3px;
+  padding-left: 10px;
+}
+.tags.simple-theme input {
+  border: 1px solid #aaa;
+  padding: 4px 10px;
+  margin: 0;
+  width: 30px;
+  border-radius: 10px;
+}

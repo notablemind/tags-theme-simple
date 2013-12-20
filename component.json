@@ -1,0 +1,13 @@
+{
+  "name": "tags-theme-simple",
+  "repo": "notablemind/tags-theme-simple",
+  "description": "A simple theme for the tags component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "tags-theme-simple.css"
+  ]
+}
